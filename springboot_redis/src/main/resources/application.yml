@@ -1,0 +1,6 @@
+spring:
+  data:
+    redis:
+      host: 8.138.88.55
+      port: 6379
+      password: abc123
